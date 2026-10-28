@@ -74,4 +74,4 @@ A TMDB exige autenticação para a grande maioria das suas rotas, suportando doi
 2. **Bearer Token (v4 authentication - Recomendado):** Enviado no cabeçalho HTTP (*HTTP Request Header*) com o formato:
    
 ```http
-   Authorization: Bearer <SEU_TOKEN_READ_ACCESS_V4>
+   eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0MmU5ZGUwNTliN2IzMDFlZGVjMGM2ZjgwMTA0NzAzZiIsIm5iZiI6MTc5MzE4MTY3OC4xNjMsInN1YiI6IjZhZTFjN2VlZDY4M2NmNTZiMDJjM2NjYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5tBNeE70HneWl5WwCUGr7hwMS0PShwUORXLUHuNXV88
